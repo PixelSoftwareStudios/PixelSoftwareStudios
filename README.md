@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+(re)Making cool stuff at [RepliCraft](https://github.com/replicraft)
+
+[Donate](https://buymeacoffee.com/thegodpixel) if you wanna idk
+
 <!--
 **PixelSoftwareStudios/PixelSoftwareStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
