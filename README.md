@@ -2,6 +2,14 @@
 
 (re)Making cool stuff at [RepliCraft](https://github.com/replicraft)
 
+Check out [remade.wiki](https://remade.wiki/)
+
+Collaborator @ [Tangency Labs](https://github.com/tangency-labs) 
+
+[Rebuilding](https://github.com/therichronicles/EarthCraft) the Earth in Rust
+
+---
+
 [Donate](https://buymeacoffee.com/thegodpixel) if you wanna idk
 
 <!--
